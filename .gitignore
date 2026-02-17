@@ -1,0 +1,4 @@
+# Chặn tất cả các file không có đuôi (thường là file thực thi trên Linux/macOS)
+*
+!*.*
+!*/
